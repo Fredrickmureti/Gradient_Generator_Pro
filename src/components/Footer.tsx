@@ -21,7 +21,7 @@ export function Footer() {
           </div>
           <div className="flex items-center space-x-6 mt-4 md:mt-0">
             <a
-              href="https://github.com/Fredrickmureti/Gradient-Generator_Pro.git"
+              href="https://github.com/Fredrickmureti"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900"

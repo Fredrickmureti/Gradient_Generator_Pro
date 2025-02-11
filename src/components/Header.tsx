@@ -16,7 +16,7 @@ export function Header() {
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
             <a 
-              href="https://github.com/Fredrickmureti/Gradient-Generator_Pro.git"
+              href="https://github.com/Fredrickmureti"
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900"
