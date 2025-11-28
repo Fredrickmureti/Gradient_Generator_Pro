@@ -14,7 +14,7 @@ export function Footer() {
                 rel="noopener noreferrer"
                 className="text-indigo-600 hover:text-indigo-700 font-medium"
               >
-                devFredrick
+                Fredrick Mureti
               </a>
             </p>
           </div>
@@ -29,7 +29,7 @@ export function Footer() {
               <span className="sr-only">GitHub</span>
             </a>
             <a
-              href="https://devfredrick.me"
+              href="https://mureti.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900"
