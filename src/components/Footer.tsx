@@ -9,7 +9,7 @@ export function Footer() {
             <p className="text-gray-600">
               Created by{' '}
               <a 
-                href="https://devfredrick.me" 
+                href="https://mureti.dev" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-indigo-600 hover:text-indigo-700 font-medium"
